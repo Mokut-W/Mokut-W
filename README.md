@@ -6,7 +6,7 @@
 - I’m looking to collaborate on Machine Learning and Data Science projects – anything involving model training, data analysis, or small-scale MLOps setups
 - I’m looking for help with Model Deployment and CI/CD automation – learning how to take trained models to production efficiently. (Open to guidance or joint projects in MLOps)
 - I’m currently learning MLOps fundamentals — including Docker, GitHub Actions, and model serving with FastAPI.   Also improving my knowledge of TensorFlow & PyTorch for model development.
-- Fun fact I love learning and i also love turning messy datasets into useful insights 
+- Fun fact: I love learning and i also love turning messy datasets into useful insights 
 
 ## Skill Stack
 <!-- Skill icons provided by skill-icons and custom logos -->
