@@ -1,14 +1,14 @@
-# 🛠️ Mokutmfon Williams
-**`Passionate Applied ML Engineer(in learning)`** 
+# 🛠️ MOKUTMFON WILLIAMS
+**`PASSIONATE APPLIED ML ENGINEER (BUILDING AND LEARNING)`** 
 
 ## About Me
-- 🔭 I’m currently working on Predictive Dashboard – building web apps that predicts trends using machine learning
-- 👯 I’m looking to collaborate on Machine Learning and Data Science projects – anything involving model training, data analysis, or small-scale MLOps setups
-- 🤝 I’m looking for help with Model Deployment and CI/CD automation – learning how to take trained models to production efficiently. (Open to guidance or joint projects in MLOps)
-- 🌱 I’m currently learning MLOps fundamentals — including Docker, GitHub Actions, and model serving with FastAPI.   Also improving my knowledge of TensorFlow & PyTorch for model development.
-- ⚡ Fun fact I love learning and i also love turning messy datasets into useful insights 🚀
+- I’m currently working on Predictive Dashboard – building web apps that predicts trends using machine learning
+- I’m looking to collaborate on Machine Learning and Data Science projects – anything involving model training, data analysis, or small-scale MLOps setups
+- I’m looking for help with Model Deployment and CI/CD automation – learning how to take trained models to production efficiently. (Open to guidance or joint projects in MLOps)
+- I’m currently learning MLOps fundamentals — including Docker, GitHub Actions, and model serving with FastAPI.   Also improving my knowledge of TensorFlow & PyTorch for model development.
+- Fun fact I love learning and i also love turning messy datasets into useful insights 
 
-## 🧠 Skill Stack
+## Skill Stack
 <!-- Skill icons provided by skill-icons and custom logos -->
 <p align="left">
   <!-- Skillicons (with hover titles) -->
@@ -31,7 +31,7 @@ Seaborn, Data cleaning & visualization, and basic ML workflows.
 **Currently learning:** PyTorch and fundamentals of MLOps.
 
 
-## 🚀 Projects Showcase
+## Projects - Showcase
 
 <table>
   <tr>
