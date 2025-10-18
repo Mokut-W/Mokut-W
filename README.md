@@ -27,24 +27,8 @@
 </p>
 
 **Also comfortable with:**  
-Data cleaning & visualization, and basic ML workflows.  
+Seaborn, Data cleaning & visualization, and basic ML workflows.  
 **Currently learning:** PyTorch and fundamentals of MLOps.
-
-
-
-<!-- Additional logos inline for Seaborn & Pandas -->
-
-
-
-**Also comfortable with:**  
-Scikit-learn, Seaborn, Pandas, data cleaning & visualization, basic ML workflows.  
-**Currently learning:** PyTorch and fundamentals of MLOps.
-
-
-
-
----
-
 
 ## Stats
 <!-- Stats card by anuraghazra/github-readme-stats
