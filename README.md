@@ -30,6 +30,29 @@
 Seaborn, Data cleaning & visualization, and basic ML workflows.  
 **Currently learning:** PyTorch and fundamentals of MLOps.
 
+
+## 🚀 Projects Showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://energy-forecast-app.onrender.com">
+        <img src="https://github.com/Mokut-W/energy-forecast-app/blob/main/energy_image.png"
+             alt="Energy Forecast App Screenshot"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>⚡ Household Energy Forecast App</b><br/>
+      <sub>Predicts next-hour household power consumption using XGBoost and Streamlit.</sub><br/>
+      🔗 <a href="https://github.com/mokutwill/energy-forecast-app">Repo</a> |
+      🌐 <a href="https://energy-forecast-app.onrender.com">Live Demo</a><br/>
+      <sub>Tags: Machine Learning, Streamlit, XGBoost</sub>
+    </td>
+  </tr>
+</table>
+
+
+
 ## Stats
 <!-- Stats card by anuraghazra/github-readme-stats
      Customization guide:
