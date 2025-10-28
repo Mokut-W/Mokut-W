@@ -2,7 +2,7 @@
 **`PASSIONATE APPLIED ML ENGINEER (BUILDING AND LEARNING)`** 
 
 ## About Me
-- I’m currently working on Predictive Dashboard – building web apps that predicts trends using machine learning
+- I’m currently working on Predictive Models – building web apps that predicts trends using machine learning
 - I’m looking to collaborate on Machine Learning and Data Science projects – anything involving model training, data analysis, or small-scale MLOps setups
 - I’m looking for help with Model Deployment and CI/CD automation – learning how to take trained models to production efficiently. (Open to guidance or joint projects in MLOps)
 - I’m currently learning MLOps fundamentals — including Docker, GitHub Actions, and model serving with FastAPI.   Also improving my knowledge of TensorFlow & PyTorch for model development.
