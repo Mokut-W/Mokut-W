@@ -48,6 +48,19 @@ Seaborn, Data cleaning & visualization, and basic ML workflows.
       🌐 <a href="https://energy-forecast-app.onrender.com/">Live Demo</a><br/>
       <sub>Tags: Machine Learning, Streamlit, XGBoost</sub>
     </td>
+    <td align="center" width="33%">
+  <a href="https://huggingface.co/spaces/mokut/pneumonia-detector">
+    <img src="https://github.com/Mokut-W/pneumonia-detector/blob/main/pneumonia_detector_image.png"
+         alt="Pneumonia Detector Screenshot"
+         style="width:100%; height:200px; object-fit:cover;"/>
+  </a>
+  <br/>
+  <b>🫁 Pneumonia Detector App</b><br/>
+  <sub>Detects pneumonia from chest X-rays using DenseNet121 with zero false negatives.</sub><br/>
+  🔗 <a href="https://github.com/Mokut-W/pneumonia-detector">Repo</a> |
+  🌐 <a href="https://huggingface.co/spaces/mokut/pneumonia-detector">Live Demo</a><br/>
+  <sub>Tags: Deep Learning, Streamlit, TensorFlow, Medical AI</sub>
+</td>
   </tr>
 </table>
 
