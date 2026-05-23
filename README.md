@@ -61,6 +61,20 @@ Seaborn, Data cleaning & visualization, and basic ML workflows.
   🌐 <a href="https://huggingface.co/spaces/mokut/pneumonia-detector">Live Demo</a><br/>
   <sub>Tags: Deep Learning, Streamlit, TensorFlow, Medical AI</sub>
 </td>
+
+  <td align="center" width="33%">
+  <a href="https://huggingface.co/spaces/mokut/football-wage-predictor">
+    <img src="https://github.com/Mokut-W/football-wage-predictor/blob/main/football_wage_predictor.png"
+         alt="Football Wage Predictor Screenshot"
+         style="width:100%; height:200px; object-fit:cover;"/>
+  </a>
+  <br/>
+  <b>⚽ Football Player Wage Predictor</b><br/>
+  <sub>Predicts a football player's weekly wage from FIFA 22 stats using Gradient Boosting.</sub><br/>
+  🔗 <a href="https://github.com/Mokut-W/football-wage-predictor">Repo</a> |
+  🌐 <a href="https://huggingface.co/spaces/mokut/football-wage-predictor">Live Demo</a><br/>
+  <sub>Tags: Machine Learning, Streamlit, Scikit-learn, Sports Analytics</sub>
+</td>
   </tr>
 </table>
 
