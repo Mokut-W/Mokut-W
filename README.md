@@ -64,7 +64,7 @@ Seaborn, Data cleaning & visualization, and basic ML workflows.
 
   <td align="center" width="33%">
   <a href="https://huggingface.co/spaces/mokut/football-wage-predictor">
-    <img src="https://github.com/Mokut-W/football-wage-predictor/blob/main/football_wage_predictor.png"
+    <img src="https://github.com/Mokut-W/football-wage-predictor/blob/main/football-wage-predictor.png"
          alt="Football Wage Predictor Screenshot"
          style="width:100%; height:200px; object-fit:cover;"/>
   </a>
